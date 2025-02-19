@@ -1,0 +1,14 @@
+{
+  "name": "takwolf-token",
+  "version": "0.0.0",
+  "description": "TakWolf's Ethereum ERC-20 Token",
+  "author": "TakWolf",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
