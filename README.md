@@ -70,13 +70,13 @@ npx hardhat test
 部署到本地网络：
 
 ```shell
-npx hardhat ignition deploy ./ignition/modules/Token.js
+npx hardhat ignition deploy ./ignition/modules/Token.ts
 ```
 
 部署到主网络：
 
 ```shell
-npx hardhat ignition deploy ./ignition/modules/Token.js --network polygon
+npx hardhat ignition deploy ./ignition/modules/Token.ts --network polygon
 ```
 
 ## 程序依赖
