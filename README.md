@@ -48,13 +48,6 @@
 
 ## 命令
 
-设置变量：
-
-```shell
-npx hardhat vars set INFURA_API_KEY
-npx hardhat vars set POLYGON_DEPLOY_PRIVATE_KEY
-```
-
 编译：
 
 ```shell
@@ -67,10 +60,23 @@ npx hardhat compile
 npx hardhat test
 ```
 
+启动本地网络：
+
+```shell
+npx hardhat node
+```
+
 部署到本地网络：
 
 ```shell
-npx hardhat ignition deploy ./ignition/modules/Token.ts
+npx hardhat ignition deploy ./ignition/modules/Token.ts --network localhost
+```
+
+设置变量：
+
+```shell
+npx hardhat vars set INFURA_API_KEY
+npx hardhat vars set POLYGON_DEPLOY_PRIVATE_KEY
 ```
 
 部署到主网络：
