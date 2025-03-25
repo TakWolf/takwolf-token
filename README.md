@@ -98,4 +98,4 @@ npx hardhat ignition deploy ./ignition/modules/Token.ts --network polygon
 
 ## 许可证
 
-[MIT](LICENSE)
+[MIT License](LICENSE)
