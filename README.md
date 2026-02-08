@@ -1,7 +1,7 @@
 # 狼人小林 's 数字代币
 
-[![Network](https://img.shields.io/badge/network-Polygon-773EF0)](https://polygon.technology)
-[![Token](https://img.shields.io/badge/token-WOLF-orange)](https://polygonscan.com/token/0x6B8c86ddAc4f7C4132A9DE5B1360AFb20b67f5E4)
+[![Network](https://img.shields.io/badge/network-Polygon-773EF0?style=flat-square)](https://polygon.technology)
+[![Token](https://img.shields.io/badge/token-WOLF-orange?style=flat-square)](https://polygonscan.com/token/0x6B8c86ddAc4f7C4132A9DE5B1360AFb20b67f5E4)
 
 狼人小林发行的自己的数字代币，基于 [以太坊](https://ethereum.org) 构建，符合 [ERC-20 标准](https://eips.ethereum.org/EIPS/eip-20)，发行在 [Polygon](https://polygon.technology) 网络。
 
